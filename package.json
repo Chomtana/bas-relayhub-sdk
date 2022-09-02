@@ -1,10 +1,10 @@
 {
-  "name": "@ankr.com/bas-relayhub-sdk",
+  "name": "@chomtana/bas-relayhub-sdk",
   "version": "0.0.2",
   "description": "",
   "main": "./lib/index.js",
   "types": "./lib/index.d.ts",
-  "repository": "",
+  "repository": "https://github.com/Chomtana/bas-relayhub-sdk",
   "author": "Dmitry Savonin <dmitry@ankr.com>",
   "license": "MIT",
   "publishConfig": {
